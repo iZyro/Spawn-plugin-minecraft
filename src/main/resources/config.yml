@@ -1,0 +1,6 @@
+messages:
+  only-player: "&cEste comando solo puede ser utilizado por un jugador!"
+  no-permissions: "&cNo tienes permisos para utiliza este comando!"
+  set-spawn: "&aEl spawn ha sido establecido!"
+  spawn-not-set: "&cEl spawn no ha sido establecido!"
+  teleport-spawn: "&aHas sido teletransportado al spawn!"
